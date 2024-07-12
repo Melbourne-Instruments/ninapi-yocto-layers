@@ -22,8 +22,8 @@
     <project name="meta-raspberrypi-elk" path="layers/meta-raspberrypi-elk" remote="elk" revision="b7ca94e14e7a047cfddc9b8cf5b550afaa45dd46" upstream="hardknott"/>
     <project name="meta-elkpi" path="layers/meta-elkpi" remote="elk" revision="8bf8daa990d182a70033228bb5f71ad6bbd6ac63" upstream="hardknott"/>
 
-    <project name="meta-nina" path="layers/meta-nina" remote="melbinst" revision="23651fb99f08b0070c24e06b36d9b1f7314374cc"/>
-    <project name="meta-raspberrypi-nina" path="layers/meta-raspberrypi-nina" remote="melbinst" revision="9d80f68fe3d77904dbd9011db50c20f44780fb11"/>
-    <project name="meta-ninapi" path="layers/meta-ninapi" remote="melbinst" revision="6b8fd4a53755f12f6b440cbb78498b85fb7d377e"/>    
+    <project name="meta-nina" path="layers/meta-nina" remote="melbinst" revision="3aa08403a62d01f865b5c6ecf9bd3feadffbb89d"/>
+    <project name="meta-raspberrypi-nina" path="layers/meta-raspberrypi-nina" remote="melbinst" revision="98a0e8546bed8bb3772b34d9e379c81baf9d5015"/>
+    <project name="meta-ninapi" path="layers/meta-ninapi" remote="melbinst" revision="865e3d2788f36a3f2431d5b918d13844abaff8b6"/>    
     <project name="meta-swupdate-nina" path="layers/meta-swupdate-nina" remote="melbinst" revision="de2ac9266e214a2610e21bd6fee27cfdfc74c585"/>    
 </manifest>
